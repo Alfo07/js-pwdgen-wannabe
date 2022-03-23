@@ -1,0 +1,11 @@
+.ms-container{
+    width: 100%;
+    background-image: url(/img/key.jpg);
+    background-size: cover;
+    background-position: left;
+}
+
+h3{
+    color: #C89A52;
+}
+
