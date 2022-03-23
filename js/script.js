@@ -13,4 +13,4 @@ console.log(favoriteColor);
 //Genera password, non molto sicura ma meglio di niente
 let passwordSicura = firstName + lastName + favoriteColor + '21';
 console.log(passwordSicura);
-document.getElementById('safepassword').innerHTML += passwordSicura + '!'
+document.getElementById('safepassword').innerHTML += passwordSicura
